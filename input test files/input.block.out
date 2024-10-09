@@ -1,0 +1,14 @@
+BEGIN BLOCK
+BEGIN HEADER
+prevBlockHash: 0
+merkleTreeRootHash: 14321c239c21d38ff40189a17a40e433e116e4a97abcb12849f77718eefa85b6
+unixTimeStamp: 1639243845
+difficulty: 0.5
+nonce: 0.8034739965160369
+END HEADER
+fartguy 3
+shmeeper 2
+gnomeSort 7
+korth 23478
+END BLOCK
+

@@ -1,0 +1,25 @@
+BEGIN BLOCK
+BEGIN HEADER
+prevBlockHash: 0
+merkleTreeRootHash: 06c39e6effed788c091fcf29a3de02ebc2a6b2349e24cf7ee6f8b28f8096750d
+unixTimeStamp: 1634590680
+difficulty: 0.5
+nonce: 0.09198587598474584
+END HEADER
+b 1
+a 3
+c 4
+END BLOCK
+
+BEGIN BLOCK
+BEGIN HEADER
+prevBlockHash: f871ff653629f806a86b5a0a0c675c5d1aa7af3cd5c9b7dd1e35c2b67d41ddfb
+merkleTreeRootHash: 5fdf289715ae59052cdb328bdb4401fdce597e5330d1661415463a6d3eccf48f
+unixTimeStamp: 1634590677
+difficulty: 0.5
+nonce: 0.15852543763704818
+END HEADER
+b 1
+a 2
+END BLOCK
+

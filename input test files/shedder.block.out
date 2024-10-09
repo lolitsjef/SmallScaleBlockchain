@@ -1,0 +1,29 @@
+BEGIN BLOCK
+BEGIN HEADER
+prevBlockHash: 0
+merkleTreeRootHash: fe3cc3f378887a4e3c0265e019757782cb3783cb60f0a1c2e8d1c68241a7da0b
+unixTimeStamp: 1639244018
+difficulty: 0.5
+nonce: 0.7871187817320726
+END HEADER
+dinky 128631982
+b 2
+pp69 4
+a 5
+Academic_Weapon_Blake 439
+END BLOCK
+
+BEGIN BLOCK
+BEGIN HEADER
+prevBlockHash: 40e06a17365c0f66c5e94bc2ef7883fb70745605d40335c08637c42e1c93bfd2
+merkleTreeRootHash: 14321c239c21d38ff40189a17a40e433e116e4a97abcb12849f77718eefa85b6
+unixTimeStamp: 1639244018
+difficulty: 0.5
+nonce: 0.1517586428086255
+END HEADER
+fartguy 3
+shmeeper 2
+gnomeSort 7
+korth 23478
+END BLOCK
+

@@ -1,0 +1,51 @@
+BEGIN BLOCK
+BEGIN HEADER
+prevBlockHash: 0
+merkleTreeRootHash: db8fdbff68eb19e55e0230dde7300a9a14491d167d33bdeac1b384c57da8f176
+unixTimeStamp: 1634590841
+difficulty: 0.5
+nonce: 0.7088609125663166
+END HEADER
+a 2
+b 3
+END BLOCK
+
+BEGIN BLOCK
+BEGIN HEADER
+prevBlockHash: c48ba2e0ad741fa6f8c7ce5bfc8ba1c3c979cca167a4868bc430a1878f82762b
+merkleTreeRootHash: 06c39e6effed788c091fcf29a3de02ebc2a6b2349e24cf7ee6f8b28f8096750d
+unixTimeStamp: 1634590841
+difficulty: 0.5
+nonce: 0.6404550191206992
+END HEADER
+b 1
+a 3
+c 4
+END BLOCK
+
+BEGIN BLOCK
+BEGIN HEADER
+prevBlockHash: 5d711c94e8db18a16ce05ac0bba796d11cdc847981ebca3caab13ca468481b99
+merkleTreeRootHash: 0d920833ea050ecb2467892e5a8ce21554332f000e75b603bcffc08c3fa37235
+unixTimeStamp: 1634590841
+difficulty: 0.5
+nonce: 0.5421612430972063
+END HEADER
+b 1
+END BLOCK
+
+BEGIN BLOCK
+BEGIN HEADER
+prevBlockHash: 7406ed61f54c33cba1011b4b40817229fe75b3768ca02dd0fb6adeff41136d82
+merkleTreeRootHash: ee0d52a3f40fd95a3ccca538206569378bd5e7e545030455b76703a3d08e11a6
+unixTimeStamp: 1634590841
+difficulty: 0.5
+nonce: 0.3027418430499973
+END HEADER
+dinky 128631982
+b 2
+pp99 4
+a 5
+Academic_Weapon_Blake 439
+END BLOCK
+

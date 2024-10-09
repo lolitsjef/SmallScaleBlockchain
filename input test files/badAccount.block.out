@@ -1,0 +1,13 @@
+BEGIN BLOCK
+BEGIN HEADER
+prevBlockHash: 0
+merkleTreeRootHash: 398ec6cff10867fae518eff194b41cbfec594f45266ce09e6cf6ed280990907f
+unixTimeStamp: 1634590761
+difficulty: 0.5
+nonce: 0.6805478480386546
+END HEADER
+a 1
+b 3
+c 2
+END BLOCK
+
